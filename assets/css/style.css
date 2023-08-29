@@ -107,7 +107,23 @@ body.active { overflow: hidden; }
 .w-100 { width: 100%; }
 .w-ship { 
   width: 100%;
+  /* z-index: -99; */
 }
+.bgc{
+  background-color:rgb(15, 18, 25)
+
+  /* background-image: url(../images/contactship.png); */
+
+}
+.centerbcg{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: auto;
+}
+
+
 .btn {
   max-width: max-content;
   color: var(--color-primary);
