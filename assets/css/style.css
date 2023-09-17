@@ -474,7 +474,7 @@ main { overflow-x: hidden; }
   border: 5px solid #E10600;
 }
 #active{
-  border: 3px solid #00fff2;
+  border: 3px solid #C0C0C0;
 }
 #defer{
   border: 3px solid #FF3131;
